@@ -1,0 +1,78 @@
+* {
+    padding: 0;
+    margin: 0;
+    outline: 0;
+    border: 0;
+    vertical-align: baseline;
+}
+.art {
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    margin: 0 auto;
+    margin-top: 8vh;
+}
+td {
+    border: 1px solid black;
+    width: 10px;
+    height: 10px;
+    box-sizing: border-box;
+}
+.panel {
+    position: fixed;
+    left: 5px;
+    bottom: 5px;
+}
+#plus, #minus {
+    font-size: 25px;
+    cursor: pointer;
+    margin-left: 12px;
+}
+table {
+    border-spacing: 0px;
+}
+.c39 {
+    background: #bcfe74;
+}
+.c34 {
+    background: #a4d540;
+}
+.c76 {
+    background: #73ac30;
+}
+.c22 {
+    background: #526328;
+}
+.c39b {
+    background: #307373;
+}
+.c222 {
+    background: #399494;
+}
+.c77 {
+    background: #184a4a;
+}
+.c91 {
+    background: #101010;
+}
+.c107 {
+    background: #83edc4;
+}
+.c74 {
+    background: #62d5b4;
+}
+.c7 {
+    background: #cdcdcd;
+}
+.c20 {
+    background: #ffffff;
+}
+.c7r {
+    background: #ed1f39;
+}
+.c23 {
+    background: #ac0031;
+}
+.c8 {
+    background: #f76b62;
+}
